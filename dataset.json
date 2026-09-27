@@ -1,0 +1,16 @@
+{
+  "name": "Synthetic Passports Dataset — public preview",
+  "publisher": "UniData / unidpro",
+  "source": "https://www.kaggle.com/datasets/unidpro/synthetic-passports-dataset",
+  "version": 1,
+  "images": 15,
+  "visas": 0,
+  "authenticityLabels": false,
+  "fieldGroundTruth": false,
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "sample": "/samples/synthetic-passport.jpg",
+  "sampleOriginal": "files/6.jpg",
+  "sampleModified": false,
+  "purpose": "Synthetic OCR demonstration only; not a document validity lookup."
+}

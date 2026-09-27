@@ -1,1 +1,21 @@
-{"name":"seemadrishti","main":"dist/server/index.js","compatibility_date":"2026-09-17","d1_databases":[{"binding":"DB","database_name":"seemadrishti","database_id":"local-only","migrations_dir":"drizzle"}],"r2_buckets":[{"binding":"BUCKET","bucket_name":"seemadrishti-captures"}]}
+{
+  "name": "seemadrishti",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-09-17",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "seemadrishti",
+      "database_id": "4bb6d361-905d-49f4-b0db-6d8d30c43278",
+      "migrations_dir": "drizzle"
+    }
+  ],
+
+  "r2_buckets": [
+    {
+      "binding": "BUCKET",
+      "bucket_name": "seemadrishti-captures"
+    }
+  ]
+}

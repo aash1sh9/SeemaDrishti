@@ -1,0 +1,9 @@
+/* Keep working text legible at desktop and compact viewport sizes. */
+.page-heading p{font-size:16px}.topbar,.profile,nav a{font-size:14px}
+.demo-banner{font-size:12px}.demo-tag,.eyebrow,.case-sub,.card-title .meta,.queue-bottom,.image-caption,.fineprint,.char-count,.timeline-event small,.workspace-footer{font-size:12px}
+.stat p,.coverage-row,.coverage-state,table,th,.table-action,.button,.button.small,.select,.field,.field strong,.check-row,.check-status,.checks-footer .button,.radio-option,textarea,label[for],.evidence-label,.checks-table td,.checks-table th,.timeline-event,.search,.bar-row{font-size:14px}
+.warning-note h3,.warning-note p,.warning-note .button,.info-note h3,.info-note p,.alert h3,.alert p,.officer-form .button,.thumb{font-size:14px}
+.field{flex-wrap:wrap;gap:4px 9px;padding:15px 5px}.field strong{white-space:normal}.check-row{padding:16px 14px}.check-status{font-size:12px}.thumb .doc-visual.visa{aspect-ratio:140/90}.thumbs{align-items:start}.checks-table td,.checks-table th{font-size:12px}.coverage-row{flex-wrap:wrap}.brand{font-size:21px}.brand small{font-size:12px}.table-action{font-size:12px}.steps{font-size:14px}
+@media(min-width:1201px){.overview-grid{grid-template-columns:minmax(0,2.1fr) minmax(300px,1fr)}.screen-grid{grid-template-columns:minmax(300px,1.4fr) minmax(230px,.9fr) minmax(290px,1fr)}td,th{padding:16px 15px}}
+@media(max-width:850px){nav a{font-size:0}.page-heading p{font-size:14px}.topbar,.profile{font-size:12px}.stat p{font-size:12px}.check-status{font-size:12px}.steps{font-size:12px}}
+@media(max-width:580px){h1{font-size:25px}.demo-banner{font-size:11px}.demo-banner>span:not([data-icon]):not(.banner-divider):not(.demo-tag){font-size:11px}.workspace-footer{font-size:11px}.page-heading>.button{font-size:13px}.evidence-label{font-size:12px}.steps{font-size:12px}.stat p{font-size:13px}.bar-row{font-size:12px}.table-scroll table{min-width:660px}}
